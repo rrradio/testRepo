@@ -1,0 +1,14 @@
+
+9
+java:S1643)"Use a StringBuilder instead.(×ğ¿é8üÁÅœÀ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ƒÂÅœÀ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ı÷éò8ƒÂÅœÀ1
+H
+java:S1075"&Remove this hard-coded path-delimiter.(øıàšùÿÿÿÿ8†ÂÅœÀ1
+H
+java:S1075+"&Remove this hard-coded path-delimiter.(óœ€„úÿÿÿÿ8‡ÂÅœÀ1
+G	java:S1067"+Replace this use of System.out by a logger.(Íî¡ê8‡ÂÅœÀ1
+G	java:S106;"+Replace this use of System.out by a logger.(¥É½ì8ˆÂÅœÀ1
+L	java:S106B"+Replace this use of System.out by a logger.(‰•…Æüÿÿÿÿ8ˆÂÅœÀ1

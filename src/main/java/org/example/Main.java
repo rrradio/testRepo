@@ -66,5 +66,6 @@ public class Main {
         System.out.println( System.currentTimeMillis() - t + "ms затрачено");
 
         // Ого давай те ка добавим первый комментарий сюда, чтобы проследить разные ветки в гите
+        // ого, теперь второй
     }
 }
